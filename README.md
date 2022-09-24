@@ -1,6 +1,10 @@
-### Hi there 👋
+I enjoy making computers do cool things through **Agile** practices, **DevOps** methodology and **Clean Code** principles.
+
+<sup><sub>I use Arch btw</sub></sup>
 
 <!--
+### Hi there 👋
+
 **malteo/malteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
