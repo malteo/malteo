@@ -1,6 +1,38 @@
+###### Overview
+
 I enjoy making computers do cool things through **Agile** practices, **DevOps** methodology and **Clean Code** principles.
 
+Main expertise: web applications (backend).
+
+###### Languages
+
+Preferred: Java, Kotlin.
+
+Work experience: Python, PHP.
+
+Passing familiarity: Rust, Go.
+
+###### Frameworks
+
+Preferred: Quarkus, Spring.
+
+Work experience: Django, Symfony.
+
+Passing familiarity: FastAPI, Actix, Gin... I can read a tutorial.
+
+###### Databases
+
+Preferred: Postgres :heart:.
+
+Work experience: Prometheus, ~Vault~ OpenBao.
+
+###### Development environment
+
+IntelliJ IDEA, Helix, Git, Hyprland and a bunch of terminals.
+
 <sup><sub>I use Arch btw</sub></sup>
+
+
 
 <!--
 ### Hi there 👋
