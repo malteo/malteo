@@ -4,31 +4,41 @@ I enjoy making computers do cool things through **Agile** practices, **DevOps** 
 
 Main expertise: web applications (backend).
 
+What am I doing: studying for [CKAD]().
+
 ###### Languages
 
 Preferred: Java, Kotlin.
 
-Work experience: Python, PHP.
+Work experience: Python.
 
-Passing familiarity: Rust, Go.
+Passing familiarity: PHP.
 
 ###### Frameworks
 
-Preferred: Quarkus, Spring.
+Preferred: Spring Boot.
 
-Work experience: Django, Symfony.
+Work experience: Django, DRF.
 
-Passing familiarity: FastAPI, Actix, Gin... I can read a tutorial.
+Passing familiarity: Quarkus, Symfony.
 
 ###### Databases
 
-Preferred: Postgres :heart:.
+Preferred: PostgreSQL.
 
-Work experience: Prometheus, ~Vault~ OpenBao.
+Work experience: Infinispan, Prometheus, ~Vault~ OpenBao.
+
+###### CI/CD
+
+Preferred: Docker, GitHub.
+
+Work experience: Ansible, CircleCI, Kubernetes.
+
+Passing familiarity: Helm, Kustomize.
 
 ###### Development environment
 
-IntelliJ IDEA, Helix, Git, Hyprland and a bunch of terminals.
+IntelliJ IDEA, [Fish](), Git, [Helix](helix-editor.org), [Niri]() and a bunch of terminals.
 
 <sup><sub>I use Arch btw</sub></sup>
 
