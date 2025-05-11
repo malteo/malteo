@@ -4,7 +4,7 @@ I enjoy making computers do cool things through **Agile** practices, **DevOps** 
 
 Main expertise: web applications (backend).
 
-What am I doing: studying for [CKAD]().
+What am I doing: studying for [CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/).
 
 ###### Languages
 
@@ -38,7 +38,7 @@ Passing familiarity: Helm, Kustomize.
 
 ###### Development environment
 
-IntelliJ IDEA, [Fish](), Git, [Helix](helix-editor.org), [Niri]() and a bunch of terminals.
+IntelliJ IDEA, Git, [Helix](https://helix-editor.com/), [Niri](https://github.com/YaLTeR/niri) and a bunch of terminals.
 
 <sup><sub>I use Arch btw</sub></sup>
 
