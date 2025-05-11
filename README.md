@@ -4,7 +4,7 @@ I enjoy making computers do cool things through **Agile** practices, **DevOps** 
 
 Main expertise: web applications (backend).
 
-What am I doing: studying for [CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/).
+Current focus: preparing for the [CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) certification.
 
 ###### Languages
 
