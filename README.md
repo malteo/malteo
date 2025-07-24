@@ -28,13 +28,13 @@ Preferred: PostgreSQL.
 
 Work experience: Infinispan, Prometheus, ~Vault~ OpenBao.
 
-###### CI/CD
+###### DevOps
 
-Preferred: Docker, GitHub.
+Preferred: Docker, GitHub Actions.
 
-Work experience: Ansible, CircleCI, Kubernetes.
+Work experience: CircleCI, GitLab, Kubernetes.
 
-Passing familiarity: Helm, Kustomize.
+Passing familiarity: Ansible, Helm, Kustomize.
 
 ###### Development environment
 
