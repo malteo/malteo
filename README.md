@@ -22,11 +22,11 @@ Work experience: Django, DRF.
 
 Passing familiarity: Quarkus, Symfony.
 
-###### Databases
+###### Middleware & Infrastructure
 
 Preferred: PostgreSQL.
 
-Work experience: Infinispan, Prometheus, ~Vault~ OpenBao.
+Work experience: Prometheus, Apache Camel, RabbitMQ
 
 ###### DevOps
 
